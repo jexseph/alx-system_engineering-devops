@@ -1,0 +1,2 @@
+Shell redirection
+Shell_reduction
